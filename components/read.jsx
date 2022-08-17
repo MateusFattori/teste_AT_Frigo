@@ -84,11 +84,6 @@ export default function Read(){
         setMostrar(false);
       });
 
-      const bt_descartar = (id)=>{
-        const contatoShow = doc(database, 'contato', id);
-        
-      }
-
     }
 
     return(

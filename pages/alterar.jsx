@@ -1,5 +1,5 @@
 import Read from "../components/read";
-import Descarte from "../components/descarte"
+import Descarte from "../components/descarte" 
 
 export default function Aterar() {
         return(
